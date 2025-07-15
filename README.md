@@ -23,7 +23,8 @@
 ## 注意事項
 
 - 使用 Plugin 時，請務必開啟 **Object Search**，才能查看分析結果。
-- 啟用功能後，請前往 **System Administration > Plugins > IronYun** 設定 HTTP 接口等基本資料。
+- 啟用功能後，請前往 **System Administration > Plugins >  IronYun** 設定 HTTP 接口等基本資料。
+- 記得打開錄像模式
 - IronYun 系統端需設定正確的資料格式與位置，並確保 ID、OD 和版本設定與 NX 一致。
 
 ---
@@ -91,4 +92,16 @@
 | Facial Recognition | 與 NX 名單比對人臉，顯示姓名；若無名單則標示 Not on List | 不支援顏色顯示，僅顯示姓名與臉框 |
 
 ---
+## 進階搜尋功能（Advanced Search）
+
+若需使用 **顏色（color）** 或其他 **屬性（attribute）** 進行篩選：
+
+1. 點擊 **Object Search** 上方的 **搜尋欄旁的齒輪圖示或「Advanced」按鈕**。
+2. 輸入格式為：屬性名稱=值
+
+例如：
+color=white,
+objectType=person
+這樣便能篩選出所有符合條件的偵測結果。
+
 
