@@ -1,5 +1,5 @@
 
-#  NX Witness + IronYun Plugin 使用手冊
+#  NX Witness + IronYun Plugin 使用說明
 
 ## 安裝說明（Install Instructions）
 
