@@ -103,5 +103,6 @@
 color=white,
 objectType=person
 這樣便能篩選出所有符合條件的偵測結果。
+---
 
-
+For more info, see https://drive.google.com/file/d/1vZhVc2GiTX3hFUGdK_HV9MCmqfclSM9K/view?usp=sharing for a user manual video.
